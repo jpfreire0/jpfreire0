@@ -12,6 +12,9 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jpfreire0&repo=dados-logistica)](https://github.com/jpfreire0/dados-logistica)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jpfreire0&repo=dados-logistica)](https://github.com/jpfreire0/dados-logistica)
 
+### Contato
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jpfreire/)
+
 <!--
 **jpfreire0/jpfreire0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
