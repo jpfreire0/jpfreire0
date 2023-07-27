@@ -9,8 +9,8 @@
 - 👨‍🔬 Atualmente aprimorando meus conhecimentos em análise de dados na EBAC
 
 ### Projetos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jpfreire0&repo=dados-logistica)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jpfreire0&repo=dados-logistica)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jpfreire0&repo=dados-logistica)](https://github.com/jpfreire0/dados-logistica)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jpfreire0&repo=dados-logistica)](https://github.com/jpfreire0/dados-logistica)
 
 <!--
 **jpfreire0/jpfreire0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
