@@ -4,7 +4,7 @@
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ## Olá! Sou o JP 👋
-Sou Analista de Dados que atualmente reside em Aracaju, Sergipe, Brasil. 
+Sou analista de dados que atualmente reside em Aracaju, Sergipe, Brasil. 
 
 ## Sobre mim
 - 💼 Experiência em análise e interpretação de dados para tomada de decisões estratégicas.
