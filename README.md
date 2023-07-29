@@ -1,18 +1,23 @@
-### Olá! Sou o JP 👋
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blu)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
-- 📈 Analista de dados com experiência em Python, SQL e Power BI
-- 📝 Certificação do Google Data Analytics
-- 👨‍🔬 Atualmente aprimorando meus conhecimentos em análise de dados na EBAC
+## Olá! Sou o JP 👋
+Sou Analista de Dados que atualmente reside em Aracaju, Sergipe, Brasil. 
 
-### Projetos
+## Sobre mim
+- 💼 Experiência em análise e interpretação de dados para tomada de decisões estratégicas.
+- 🔍 Certificado Google Data Analytics com sólida compreensão das melhores práticas em análise de dados.
+- 🌱 Aprimorando minhas habilidades em Python, SQL e Machine Learning pela EBAC.
+- 💡 Apaixonado por desvendar insights nos dados e utilizar a tecnologia para resolver problemas complexos do dia a dia.
+- 🚀 Sempre em busca de novos desafios e oportunidades para aplicar meus conhecimentos em projetos inovadores.
+  
+## Projetos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jpfreire0&repo=dados-logistica)](https://github.com/jpfreire0/dados-logistica)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jpfreire0&repo=dados-logistica)](https://github.com/jpfreire0/dados-logistica)
 
-### Contato
+## Contato
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jpfreire/)
 
 <!--
