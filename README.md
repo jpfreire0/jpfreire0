@@ -15,7 +15,7 @@ Sou analista de dados que atualmente reside em Aracaju, Sergipe, Brasil.
   
 ## Projetos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jpfreire0&repo=dados-logistica)](https://github.com/jpfreire0/dados-logistica)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jpfreire0&repo=dados-logistica)](https://github.com/jpfreire0/dados-logistica)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jpfreire0&repo=mercado-jogos)](https://github.com/jpfreire0/mercado-jogos)
 
 ## Contato
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jpfreire/)
