@@ -3,11 +3,10 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
-## Olá! Sou o JP 👋
-Sou analista de dados que atualmente reside em Aracaju, Sergipe, Brasil. 
+# Olá! Sou o JP 👋
 
 ## Sobre mim
-- 💼 Experiência em análise e interpretação de dados para tomada de decisões estratégicas.
+- 💼 Experiência em análise de dados para tomada de decisões estratégicas.
 - 🔍 Certificado Google Data Analytics com sólida compreensão das melhores práticas em análise de dados.
 - 🌱 Aprimorando minhas habilidades em Python, SQL e Machine Learning pela EBAC.
 - 💡 Apaixonado por desvendar insights nos dados e utilizar a tecnologia para resolver problemas complexos do dia a dia.
