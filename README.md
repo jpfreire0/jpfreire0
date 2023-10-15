@@ -15,6 +15,9 @@
 ## Projetos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jpfreire0&repo=dados-logistica)](https://github.com/jpfreire0/dados-logistica)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jpfreire0&repo=mercado-jogos)](https://github.com/jpfreire0/mercado-jogos)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jpfreire0&repo=salary-data)](https://github.com/jpfreire0/salary-data)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jpfreire0&repo=pipeline-dados-telegram)](https://github.com/jpfreire0/pipeline-dados-telegram)
+
 
 ## Contato
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jpfreire/)
