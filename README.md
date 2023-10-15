@@ -16,7 +16,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jpfreire0&repo=dados-logistica)](https://github.com/jpfreire0/dados-logistica)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jpfreire0&repo=mercado-jogos)](https://github.com/jpfreire0/mercado-jogos)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jpfreire0&repo=salary-data)](https://github.com/jpfreire0/salary-data)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jpfreire0&repo=pipeline-dados-telegram)](https://github.com/jpfreire0/pipeline-dados-telegram)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jpfreire0&repo=pipeline-dados-telegram)](https://github.com/jpfreire0/pipeline-dados-telegram) 
 
 
 ## Contato
